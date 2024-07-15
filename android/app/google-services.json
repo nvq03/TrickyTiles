@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "503791190135",
+    "firebase_url": "https://flutterlogin-4a3f2-default-rtdb.firebaseio.com",
+    "project_id": "flutterlogin-4a3f2",
+    "storage_bucket": "flutterlogin-4a3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503791190135:android:4818499dfee9e6db2b8672",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7aNVybcC9gHCmPrhHRJdXzdIQp6T-ZYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503791190135:android:cd64401ce5764aee2b8672",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7aNVybcC9gHCmPrhHRJdXzdIQp6T-ZYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
